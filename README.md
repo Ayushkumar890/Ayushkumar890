@@ -3,9 +3,9 @@
 ## ⚡ HELLO WORLD! ⚡
 ```
 Name = "Ayush"
-Profession = {
-  'MERN STACK':  'Learing',
-}
+
+  'MERN STACK':  'Learing'
+
 Age = "19"
 Country = "India"
 College = "Chitkara University, Punjab"
