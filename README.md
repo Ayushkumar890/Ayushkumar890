@@ -1,4 +1,19 @@
+<h1 align="center">Hello!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm Ayush<img width="40px" height="40px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></h1>
 
+<br>
+
+## ⚡ HELLO WORLD! ⚡
+```
+Name = "Ayush"
+Profession = {
+  'MERN STACK':  'Learing',
+}
+Age = "19"
+Country = "India"
+College = "Chitkara University, Punjab"
+Portfolio = "https://ayushk.tech"
+
+```
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushkumar_0911) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-kumar-40302b258/) 
 
