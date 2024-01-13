@@ -1,7 +1,5 @@
 <h1 align="center">Hello!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm Ayush<img width="40px" height="40px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></h1>
 
-<br>
-
 ## ⚡ HELLO WORLD! ⚡
 ```
 Name = "Ayush"
