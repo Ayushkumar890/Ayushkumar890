@@ -4,7 +4,7 @@
 ```
 Name = "Ayush"
 
-  'MERN STACK':  'Learing'
+  'MERN STACK':  'Learning'
 
 Age = "19"
 Country = "India"
