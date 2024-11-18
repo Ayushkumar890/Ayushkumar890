@@ -6,7 +6,7 @@ Name = "Ayush"
 
   'MERN STACK':  'Learning'
 
-Age = "19"
+Age = "20"
 Country = "India"
 College = "Chitkara University, Punjab"
 Portfolio = "https://ayushk.tech"
