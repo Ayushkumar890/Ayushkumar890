@@ -9,7 +9,7 @@ Name = "Ayush"
 Age = "20"
 Country = "India"
 College = "Chitkara University, Punjab"
-Portfolio = "https://ayushk.tech"
+
 
 ```
 ## 🌐 Socials:
