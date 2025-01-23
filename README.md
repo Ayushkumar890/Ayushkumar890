@@ -4,7 +4,7 @@
 ```
 Name = "Ayush"
 
-  'MERN STACK':  'Learning'
+  'Full STACK DEVELOPER'
 
 Age = "20"
 Country = "India"
